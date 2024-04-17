@@ -1,8 +1,6 @@
-<h2 align="center">
-    👋  Hello , I'm Shiva Kandula
-</h2> 
-<h2 align="center">
-    A Full-Stack Web Developer 💻 with 10 years of experience 💼
+<img src="./Shiva.png">
+<h2>
+    Associate Technical Manager | Node.js & Socket.IO Expert | Proven Team Leader
 </h2> 
 <span>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -14,11 +12,11 @@
  
   
 <ul align=”center”>
-<li>👀 I’m interested in Node.js, React, and building scalable web applications.</li>
-<li>💞️ I’m interested in collaborating on projects related to web development and innovative tech solutions.</li>
-<li>📫 How to reach me: <a href='shivnode01@gmail.com' styles='text-decoration: none'><b>shivnode01@gmail.com</b></a></li>
-<li>🎓 Graduated with a degree in B.com Computers . Constantly learning and exploring new technologies.</li>
-<li>🌟 Experienced in building RESTful APIs using Express.js and MongoDB.</li>
-<li>🚀 Actively contribute to open-source projects on GitHub.</li>
-<li>💼 Currently seeking new opportunities to further my career in web development.</li>
+<li><b>Technical Expertise: </b>Proficient in Node.js and building scalable web applications.</li>
+<li><b>Passion for Collaboration:</b> Interested in collaborating on projects related to web development and innovative tech solutions.</li>
+<li><b>Contact Information: </b> Reachable at  <a href='shivnode01@gmail.com' styles='text-decoration: none'><b> shivnode01@gmail.com.</b></a></li>
+<li><b> Educational Background: </b> Holds a Masters in Computers, constantly learning and exploring new technologies.</li>
+<li><b>Experience with RESTful APIs:</b> Skilled in building RESTful APIs using Express.js and MongoDB.</li>
+<li><b>Active Contributor:</b> Actively contributes to open-source projects on GitHub.</li>
+<li><b>Career Aspirations: </b>Currently seeking new opportunities to further career in web development.</li>
 <ul>
