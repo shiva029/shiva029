@@ -19,7 +19,7 @@
 <li><b>Career Aspirations: </b>Currently seeking new opportunities to further career in web development.</li> -->
     <b>Professional Profile:</b>
     <li>Experienced Node.js Developer with a passion for crafting scalable web applications and a keen interest in fostering collaborative tech solutions. Possessing a Master's degree in Computers, I am dedicated to perpetual learning and staying abreast of emerging technologies.</li>
-    <span styles='margin-top: 10px'></span>
+    <span styles='text-decoration:underline'></span>
     <b>Technical Expertise:</b>
     <li>Proficient in Node.js for developing robust and scalable web applications.</li>
     <li>Skilled in building RESTful APIs using Express.js and MongoDB.</li>
